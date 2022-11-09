@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "bin": "usr/bin/git-annex.exe",
     "url": "https://downloads.kitenet.net/git-annex/autobuild/windows/git-annex-installer.exe#/dl.7z",
-    "hash": "4e8d8ea6487b114a57cf00bcccb93486e57c7d3bda98b26b6b4020a86b8ec101",
+    "hash": "sha512:5201F24F874290A631D6887D8130411223B84F428B564B6A20ECD70E3BFA68FE6B136746034726C409C628FD12E6F6460E3CB72C6559E97FC5CF2F5CD45D7178",
     "checkver": {
         "url": "https://downloads.kitenet.net/git-annex/autobuild/windows/build-version"
     },
