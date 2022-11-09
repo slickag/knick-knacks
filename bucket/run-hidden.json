@@ -1,0 +1,13 @@
+{
+  "version": "v1.2",
+  "description": "Runs Windows console apps in a hidden console window.",
+  "homepage": "https://github.com/stax76/run-hidden",
+  "license": "MIT",
+  "url": "https://github.com/stax76/run-hidden/releases/download/v1.2/run-hidden-v1.2.zip",
+  "hash": "sha512:636F946241B8F9442D70E760A0D29EC2170EDC28807C2D26F618FF3881884D4E6B9015EEDAAC23A70D2EB1F16205239DA2C3E32DBBC989C646A01BAC81CD49C1",
+  "bin": "run-hidden.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/stax76/run-hidden/releases/download/v$version/run-hidden-v$version.zip"
+  }
+}

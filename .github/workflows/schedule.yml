@@ -14,3 +14,10 @@ jobs:
         GITH_EMAIL: 45057319+slickag@users.noreply.github.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SKIP_UPDATED: '1'
+    - name: Delete workflow runs
+      uses: Mattraks/delete-workflow-runs@v2.0.3
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 90
+        keep_minimum_runs: 90
