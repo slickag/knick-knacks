@@ -4,7 +4,7 @@
     "homepage": "https://github.com/xemulat/XToolbox",
     "license": "GPL-2.0",
     "url": "https://github.com/xemulat/XToolbox/releases/download/v2.0/XTBox.exe",
-    "hash": "200f28531d41f1cb9c0ba81258bd89c149276bec806ea10bfeac86dd6e16c36f",
+    "hash": "sha512:84DC180E92C5826A30B314C7B38419F022D370CF63508D978F5626AC1253E308FF4B7C62D5AD88382E73866244C6ED19F54B43D777A2CFB89990C55BD4FC8D2C",
     "bin": [
         "xtbox.exe",
         [
