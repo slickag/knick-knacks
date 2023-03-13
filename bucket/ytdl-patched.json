@@ -15,7 +15,7 @@
     "bin": [
         [
             "ytdl-patched-red.exe",
-            "yt-dlp"
+            "ytdl-patched"
         ]
     ],
     "pre_install": "if (-not (Test-Path \"$persist_dir\\yt-dlp.conf\")) { New-Item \"$dir\\yt-dlp.conf\" -ItemType file | Out-Null }",
