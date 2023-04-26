@@ -1,16 +1,16 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "description": "Telegram Downloader.",
     "homepage": "https://github.com/iyear/tdl",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/iyear/tdl/releases/download/v0.8.1/tdl_Windows_64bit.zip",
-            "hash": "015fca04cf83abd512103a6ddf04a88eff4332ae0efd91fd0a1146f05fe2f0f6"
+            "url": "https://github.com/iyear/tdl/releases/download/v0.8.2/tdl_Windows_64bit.zip",
+            "hash": "7c8fc2e8688c6428244a38296f272e446ab777159757d3c094e6ae774102f78e"
         },
         "32bit": {
-            "url": "https://github.com/iyear/tdl/releases/download/v0.8.1/tdl_Windows_32bit.zip",
-            "hash": "0832fcfc064d3ed9f759a883f6cca88a5e3e95994af635a3f169c1e6cdd02517"
+            "url": "https://github.com/iyear/tdl/releases/download/v0.8.2/tdl_Windows_32bit.zip",
+            "hash": "be3c261b0ee49ea8a59a415950c2c180184c18f6d22b05d899af48ba6510b6d6"
         }
     },
     "bin": "tdl.exe",
