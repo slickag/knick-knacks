@@ -1,5 +1,5 @@
 {
-    "version": "2023.05.27.1685193553",
+    "version": "2023.05.28.1685234459",
     "description": "A command-line program to download videos from YouTube and many other video platforms.",
     "homepage": "https://github.com/ytdl-patched/ytdl-patched",
     "license": "Unlicense",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ytdl-patched/ytdl-patched/releases/download/2023.05.27.1685193553/ytdl-patched-red.exe",
-            "hash": "9974af5ae128227a5f003646726dd648ea380ff922075436584bee122f2a60bf"
+            "url": "https://github.com/ytdl-patched/ytdl-patched/releases/download/2023.05.28.1685234459/ytdl-patched-red.exe",
+            "hash": "305e7c3c8b160ed76e9b05e09d25a2060b3273cf258d2343c67ee5e995f3aee7"
         }
     },
     "bin": [
