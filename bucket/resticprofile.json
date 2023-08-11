@@ -1,5 +1,5 @@
 {
-    "version": "0.22.0",
+    "version": "0.23.0",
     "description": "Configuration profiles manager and scheduler for restic backup",
     "homepage": "https://github.com/creativeprojects/resticprofile",
     "license": "GPL-3.0",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/creativeprojects/resticprofile/releases/download/v0.22.0/resticprofile_0.22.0_windows_amd64.zip",
-            "hash": "a81d78ced311ee7185fae597454b4ef97391e6ed5a423220e1b0f61e99209337"
+            "url": "https://github.com/creativeprojects/resticprofile/releases/download/v0.23.0/resticprofile_0.23.0_windows_amd64.zip",
+            "hash": "bb756d73354aa533bccbe991271bf43c9d267cc2cca823ced4517c296e4a2a0e"
         },
         "32bit": {
-            "url": "https://github.com/creativeprojects/resticprofile/releases/download/v0.22.0/resticprofile_0.22.0_windows_386.zip",
-            "hash": "0da46d7e43407fadf31248aa29bdb43f27341df088a5dae3fc5471eb951376bf"
+            "url": "https://github.com/creativeprojects/resticprofile/releases/download/v0.23.0/resticprofile_0.23.0_windows_386.zip",
+            "hash": "888ec6d5dcbb9f22a364799e59b56cd46f5d0e72a361f676a17bdab33cc1a2c3"
         }
     },
     "bin": "resticprofile.exe",
