@@ -13,8 +13,8 @@
         }
     },
     "bin": [
-        "bin\\ffmpeg.exe",
-        "bin\\ffprobe.exe"
+        "ffmpeg.exe",
+        "ffprobe.exe"
     ],
     "checkver": "github",
     "autoupdate": {
