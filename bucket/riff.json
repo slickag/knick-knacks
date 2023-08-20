@@ -1,5 +1,5 @@
 {
-    "version": "2.25.1",
+    "version": "2.25.2",
     "homepage": "https://github.com/walles/riff",
     "description": "A diff filter highlighting which line parts have changed.",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/walles/riff/releases/download/2.25.1/riff-2.25.1-x86_64-windows.exe#/riff.exe",
-            "hash": "fa336ebb77c8a3dbc3d74a5926b5e64b64d8b308a48ede1cbd4b5d70ce5d661d",
+            "url": "https://github.com/walles/riff/releases/download/2.25.2/riff-2.25.2-x86_64-windows.exe#/riff.exe",
+            "hash": "3b71c3df86e5a3e4e3ab8808d5f3eba9c87f59a5988b747255a216cf92ccde87",
             "bin": "riff.exe"
         }
     },
