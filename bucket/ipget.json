@@ -1,7 +1,7 @@
 {
   "version": "0.10.0",
   "description": "Retrieve files over IPFS and save them locally",
-  "homepage": "https://www.builtbybel.com/ms-apps/cleanmgrplus",
+  "homepage": "https://github.com/ipfs/ipget",
   "license": "MIT",
   "architecture": {
       "64bit": {
