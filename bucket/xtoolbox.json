@@ -1,10 +1,10 @@
 {
-    "version": "3.1",
+    "version": "3.2",
     "description": "A collection of 50+ Windows 10/11 optimization and tweaking apps!",
     "homepage": "https://github.com/xemulat/XToolbox",
     "license": "GPL-2.0",
-    "url": "https://github.com/xemulat/XToolbox/releases/download/v3.1/XTBox.exe",
-    "hash": "a7809486fcfd5d0540f8b4a995dc415cce3bfc282eac9da583a79c166f2d245f",
+    "url": "https://github.com/xemulat/XToolbox/releases/download/v3.2/XTBox.exe",
+    "hash": "3305993e046f15bc3cd9e8bc0572b002bb97e7fd00220a573a66d6df726fc642",
     "bin": [
         "xtbox.exe",
         [
