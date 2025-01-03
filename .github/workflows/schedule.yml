@@ -1,4 +1,7 @@
 on:
+  push:
+    paths:
+    - '**.json'
   schedule:
   - cron: '0 * * * *'
 name: Excavator
