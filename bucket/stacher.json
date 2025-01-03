@@ -29,9 +29,9 @@
         "url": "https://s7-releases.nyc3.cdn.digitaloceanspaces.com/s7-releases/Stacher7-$version-full.nupkg"
       }
     },
-	"hash": {
-	  "url": "https://api.stacher.io/api/update/win32/x64/$version/RELEASES",
-	  "regex": "^[\\w]{40}"
-	}
+    "hash": {
+      "url": "https://api.stacher.io/api/update/win32/x64/$version/RELEASES",
+      "regex": "^[\\w]{40}"
+    }
   }
 }
