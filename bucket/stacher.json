@@ -1,12 +1,12 @@
 {
-    "version": "7.0.8",
+    "version": "7.0.9",
     "homepage": "https://stacher.io/",
     "description": "A Beautiful, Modern GUI for YT-DLP / YOUTUBE-DL.",
     "license": "CC-BY-NC-ND-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://s7-releases.nyc3.cdn.digitaloceanspaces.com/s7-releases/Stacher7-7.0.8-full.nupkg",
-            "hash": "sha1:04b03cee043ff7a36d56eff9bc9d2a9c1a588f44"
+            "url": "https://s7-releases.nyc3.cdn.digitaloceanspaces.com/s7-releases/Stacher7-7.0.9-full.nupkg",
+            "hash": "sha1:1999e700f24040b8b90c10aaaffacb1309bec7cd"
         }
     },
     "pre_install": [
