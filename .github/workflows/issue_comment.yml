@@ -1,16 +1,23 @@
+name: Commented Pull Request
+
 on:
   issue_comment:
-    types: [ created ]
-name: Commented Pull Request
+    types: [created]
+
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   pullRequestHandler:
-    name: Pull Request Validator
+    name: PullRequestHandler
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@main
-    - name: Pull Request Validation
-      uses: shovel-org/GithubActions@main
-      if: startsWith(github.event.comment.body, '/verify')
-      env:
-        GITH_EMAIL: 45057319+slickag@users.noreply.github.com
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@main
+      - name: PullRequestHandler
+        uses: ScoopInstaller/GithubActions@main
+        if: startsWith(github.event.comment.body, '/verify')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SCOOP_BRANCH: develop
