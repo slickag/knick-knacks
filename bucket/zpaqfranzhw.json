@@ -1,12 +1,12 @@
 {
-    "version": "65.23",
+    "version": "65.24",
     "description": "Advanced and compatible fork of ZPAQ 7.15 with support for HW accelerated SHA1 instructions (Windows 64 only)",
     "homepage": "https://github.com/fcorbelli/zpaqfranz",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fcorbelli/zpaqfranz/releases/download/65.23/zpaqfranzhw.exe",
-            "hash": "9ccf9a18cebfc274adcaeb7e4f9e6b6da1b17678ba64cbb4f7a7542abbcd2bd3",
+            "url": "https://github.com/fcorbelli/zpaqfranz/releases/download/65.24/zpaqfranzhw.exe",
+            "hash": "8148b1179243cf9bb31207ee2341ab47f022d50c37b8b7acd0257f9c8fdc643b",
             "bin": [
                 [
                     "zpaqfranzhw.exe",
